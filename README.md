@@ -2,7 +2,7 @@
 
 This is an elemental project to demonstrate how easy is to add a blog powered by WordPress in a Laravel project.
 
-You just need 2 new routes with their controllers plus an ApiService.php also you need your WP API credentials you have to place in your .env file.
+You just need 2 new routes with their controllers plus an ApiService.php also you need your WP API credentials you HAVE to place in your .env file.
 
 If you're a skilled Laravel dev in less than 15 minutes you can get a functional blog, but take it easy because I strongly recommend you adding custom meta tags to your template because of SEO.
 
